@@ -4,6 +4,7 @@ In the face of dynamic market conditions and evolving business requirements, wor
 
 A study conducted by McKinsey & Company (a global management consulting firm founded in 1926, that offers professional services to corporations, governments, and other organizations) showed the impact of smart scheduling on planning measurements, including job delays and false starts.  
 There was also an increase in the productivity of the operators.
+![Screenshot from 2023-11-27 03-54-51](https://github.com/BekhtiWissal/Workforce-Planning/assets/135755494/10cc24e3-a690-44e0-853f-e5f63d4beb8f)
 
 In the first part of this paper, we will present a state-of-the-art of 5 different works in the field of digitalizing workforce scheduling. We will then discuss the approach we used and the methodologies we relied on in order to optimize this planning, including heuristic algorithms, machine learning algorithms, and mathematical formulas for calculating fatigue and productivity based on employees and their shifts during the manufacturing working days. We will display our results and compare them to those of the previously presented works as a comprehensive validation process to assess the performance and reliability of the developed SSO. Finally, we explain the different features implemented in the Streamlit application that were developed to make the SSO interactive and user-friendly.
 
