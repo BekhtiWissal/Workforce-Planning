@@ -2,6 +2,7 @@
 - Predicting workload and demand fluctuations.
 - Optimizing shift allocation based on skills and availability.
 - Maximizing productivity while ensuring worker well-being.
+- Evaluating schedules using Fatigue Index, Productivity Scores, and Risk Index for safer and more efficient outcomes
 
 <img src="images/Screensh.png" alt=" " width="50%" style="margin-left: 1000px;">
 
@@ -12,6 +13,11 @@ Key Features of the project are:
  - **Modular Design**: Extensible components for data ingestion, scheduling engine, and performance evaluation.
  - **Customizability**: Adaptable to healthcare, retail, manufacturing, and service industries.
  - **Synthetic Data Generation**: Tools to simulate realistic employee/task datasets when real data is unavailable.
+ - **Fatigue, Risk & Productivity Metrics**: The system integrates the HSE Fatigue and Risk Index (FRI) model and custom productivity metrics to assess:
+  - **Fatigue Index**: Tracks operator fatigue across shifts
+  - **Risk Index**: Estimates safety risk due to scheduling
+  - **Productivity**: Quantifies the effectiveness of workforce deployment per schedule
+
 
  Tech Stack:
 
