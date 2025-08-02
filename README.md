@@ -14,9 +14,9 @@ Key Features of the project are:
 - **Customizability**: Adaptable to healthcare, retail, manufacturing, and service industries.
 - **Synthetic Data Generation**: Tools to simulate realistic employee/task datasets when real data is unavailable.
 - **Fatigue, Risk & Productivity Metrics**: The system integrates the HSE Fatigue and Risk Index (FRI) model and custom productivity metrics to assess:
- - **Fatigue Index**: Tracks operator fatigue across shifts
- - **Risk Index**: Estimates safety risk due to scheduling
- - **Productivity**: Quantifies the effectiveness of workforce deployment per schedule
+  - **Fatigue Index**: Tracks operator fatigue across shifts
+  - **Risk Index**: Estimates safety risk due to scheduling
+  - **Productivity**: Quantifies the effectiveness of workforce deployment per schedule
 
 
  Tech Stack:
