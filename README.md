@@ -3,7 +3,7 @@ Workforce planning is no longer just about filling schedules — it's about opti
 - Optimizing shift allocation based on skills and availability.
 - Maximizing productivity while ensuring worker well-being.
 
-<img src="images/Screensh.png" alt=" " width="50%" style="margin-left: 100px;">
+<img src="images/Screensh.png" alt=" " width="50%" style="margin-left: 1000px;">
 
 
 Key Features of the project are:
