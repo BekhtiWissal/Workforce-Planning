@@ -8,15 +8,15 @@
 
 
 Key Features of the project are:
- - **AI-Driven Decision Making**: Integration of ML models for job allocation and dynamic shift optimization.
- - **Heuristic Algorithms**: Use of Genetic Algorithms, Simulated Annealing & Ant Colony Optimization for complex scheduling scenarios.
- - **Modular Design**: Extensible components for data ingestion, scheduling engine, and performance evaluation.
- - **Customizability**: Adaptable to healthcare, retail, manufacturing, and service industries.
- - **Synthetic Data Generation**: Tools to simulate realistic employee/task datasets when real data is unavailable.
- - **Fatigue, Risk & Productivity Metrics**: The system integrates the HSE Fatigue and Risk Index (FRI) model and custom productivity metrics to assess:
-  - **Fatigue Index**: Tracks operator fatigue across shifts
-  - **Risk Index**: Estimates safety risk due to scheduling
-  - **Productivity**: Quantifies the effectiveness of workforce deployment per schedule
+- **AI-Driven Decision Making**: Integration of ML models for job allocation and dynamic shift optimization.
+- **Heuristic Algorithms**: Use of Genetic Algorithms, Simulated Annealing & Ant Colony Optimization for complex scheduling scenarios.
+- **Modular Design**: Extensible components for data ingestion, scheduling engine, and performance evaluation.
+- **Customizability**: Adaptable to healthcare, retail, manufacturing, and service industries.
+- **Synthetic Data Generation**: Tools to simulate realistic employee/task datasets when real data is unavailable.
+- **Fatigue, Risk & Productivity Metrics**: The system integrates the HSE Fatigue and Risk Index (FRI) model and custom productivity metrics to assess:
+ - **Fatigue Index**: Tracks operator fatigue across shifts
+ - **Risk Index**: Estimates safety risk due to scheduling
+ - **Productivity**: Quantifies the effectiveness of workforce deployment per schedule
 
 
  Tech Stack:
