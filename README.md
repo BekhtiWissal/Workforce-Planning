@@ -4,9 +4,7 @@ Workforce planning is no longer just about filling schedules — it's about opti
 - Maximizing productivity while ensuring worker well-being.
 
 <img src="images/Screensh.png" alt=" " width="50%" style="margin-left: 1000px;">
-<div align="center">
-  <img src="images/Screensh.png" alt=" " width="50%" style="margin-left: 1000px;">
-</div>
+
 
 Key Features of the project are:
  - **AI-Driven Decision Making**: Integration of ML models for job allocation and dynamic shift optimization.
