@@ -4,6 +4,13 @@ Workforce planning is no longer just about filling schedules — it's about opti
 - Maximizing productivity while ensuring worker well-being.
 ![ ](images/Screensh.png)
 
+
+## 🖼️ Streamlit Demo
+
+<img src="images/Screenshot.png" alt="Streamlit App" width="50%">
+
+
+
 Key Features of the project are:
  - **AI-Driven Decision Making**: Integration of ML models for job allocation and dynamic shift optimization.
  - **Heuristic Algorithms**: Use of Genetic Algorithms, Simulated Annealing & Ant Colony Optimization for complex scheduling scenarios.
