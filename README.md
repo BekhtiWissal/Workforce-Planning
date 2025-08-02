@@ -1,4 +1,4 @@
-Workforce planning is no longer just about filling schedules — it's about optimizing human resources, enhancing employee satisfaction, and reducing operational costs. This project delivers AI-powered Smart Schedule Optimizers (SSO) that dynamically create efficient and balanced work schedules tailored to organizational needs through: 
+**Workforce planning** is no longer just about filling schedules — it's about optimizing human resources, enhancing employee satisfaction, and reducing operational costs. This project delivers AI-powered Smart Schedule Optimizers (SSO) that dynamically create efficient and balanced work schedules tailored to organizational needs through: 
 - Predicting workload and demand fluctuations.
 - Optimizing shift allocation based on skills and availability.
 - Maximizing productivity while ensuring worker well-being.
