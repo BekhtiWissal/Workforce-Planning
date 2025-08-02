@@ -2,7 +2,7 @@ Workforce planning is no longer just about filling schedules — it's about opti
 - Predicting workload and demand fluctuations.
 - Optimizing shift allocation based on skills and availability.
 - Maximizing productivity while ensuring worker well-being.
-![ ](/home/wissal/Downloads/github/png)
+![ ](images/png)
 
 Key Features of the project are:
  - **AI-Driven Decision Making**: Integration of ML models for job allocation and dynamic shift optimization.
@@ -22,7 +22,7 @@ Key Features of the project are:
 | Visualization     | Matplotlib, Seaborn                              |
 
 
-![Streamlit App](/home/wissal/Downloads/github/Screenshot from 2023-12-14 13-38-03.png)
+![Streamlit App](images/Screenshot.png)
 
 The project follows a structured pipeline:
  - **Problem Definition**: Define objectives, constraints, and real-world scheduling challenges.
