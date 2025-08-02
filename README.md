@@ -3,7 +3,7 @@ Workforce planning is no longer just about filling schedules — it's about opti
 - Optimizing shift allocation based on skills and availability.
 - Maximizing productivity while ensuring worker well-being.
 
-<img src="images/Screensh.png" alt=" " width="50%" style="margin-left: 40px;">
+<img src="images/Screensh.png" alt=" " width="50%" style="margin-left: 100px;">
 
 
 Key Features of the project are:
@@ -23,9 +23,6 @@ Key Features of the project are:
 | Data Processing   | Pandas, NumPy                                    |
 | Visualization     | Matplotlib, Seaborn                              |
 
-<div align="center">
-  <img src="images/Screenshot.png" alt="Streamlit App" width="80%">
-</div>
 
 
 The project follows a structured pipeline:
@@ -36,9 +33,11 @@ The project follows a structured pipeline:
 For details, refer to the full methodology in the [Workforce Planning Report](./Report/Workforce_Planning__Developing_Smart_AI_driven_Schedule_Optimizers.pdf).
 
 
-
  Possible Use Cases for the AI-powered SSO:
  - **Healthcare**: Optimize nurse/doctor shifts while balancing fatigue and preferences.
  - **Retail**: Align staff schedules with peak foot traffic using predictive analytics.
  - **Manufacturing**: Distribute tasks across shifts considering machine/operator availability.
  - **Customer Service**: Intelligent dispatching of agents based on call volumes.
+  
+  <img src="images/Screenshot.png" alt="Streamlit App" width="80%" style="margin-left: 100px;">
+
