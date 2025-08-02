@@ -1,11 +1,61 @@
-This repository contains codes and data used in a paper: "Workforce Planning: Developing Smart AI-driven Schedule Optimizers".
+Workforce planning is no longer just about filling schedules — it's about optimizing human resources, enhancing employee satisfaction, and reducing operational costs. This project delivers AI-powered Smart Schedule Optimizers (SSO) that dynamically create efficient and balanced work schedules tailored to organizational needs through: 
+Predict workload and demand fluctuations.
 
-In the face of dynamic market conditions and evolving business requirements, workforce planning has become more critical. The conventional manual approaches to scheduling often fall short of addressing the complexities of modern workplaces. Organizations increasingly recognize the need for intelligent, adaptive systems to optimize workforce schedules. This project aims to bridge this gap by leveraging the power of AI to create Smart Schedule Optimizers capable of handling scheduling challenges, ensuring optimal resource utilization, and enhancing overall operational efficiency.
+Optimize shift allocation based on skills and availability.
 
-A study conducted by McKinsey & Company (a global management consulting firm founded in 1926, that offers professional services to corporations, governments, and other organizations) showed the impact of smart scheduling on planning measurements, including job delays and false starts.  
-There was also an increase in the productivity of the operators.
-![Screenshot from 2023-11-27 03-54-51](https://github.com/BekhtiWissal/Workforce-Planning/assets/135755494/10cc24e3-a690-44e0-853f-e5f63d4beb8f)
+Maximize productivity while ensuring worker well-being.
 
-In the first part of this paper, we will present a state-of-the-art of 5 different works in the field of digitalizing workforce scheduling. We will then discuss the approach we used and the methodologies we relied on in order to optimize this planning, including heuristic algorithms, machine learning algorithms, and mathematical formulas for calculating fatigue and productivity based on employees and their shifts during the manufacturing working days. We will display our results and compare them to those of the previously presented works as a comprehensive validation process to assess the performance and reliability of the developed SSO. Finally, we explain the different features implemented in the Streamlit application that were developed to make the SSO interactive and user-friendly.
 
-The primary contribution of this work is the development of SSO (Smart Schedule Optimizers) that are equipped with machine learning capabilities to analyze historical data, predict future demand patterns, and dynamically adjust schedules to align with organizational goals. The proposed system aims to enhance workforce efficiency, reduce operational costs, and improve employee satisfaction by generating schedules that balance workload, skill requirements, and individual preferences.
+
+ Key Features
+AI-Driven Decision Making: Integration of ML models for job allocation and dynamic shift optimization.
+
+Heuristic Algorithms: Use of Genetic Algorithms, Simulated Annealing & Ant Colony Optimization for complex scheduling scenarios.
+
+Modular Design: Extensible components for data ingestion, scheduling engine, and performance evaluation.
+
+Customizability: Adaptable to healthcare, retail, manufacturing, and service industries.
+
+Synthetic Data Generation: Tools to simulate realistic employee/task datasets when real data is unavailable.
+
+
+
+
+## 🛠️ Tech Stack
+
+| Component         | Technology                                      |
+|------------------|--------------------------------------------------|
+| Language          | Python                                           |
+| ML Frameworks     | Scikit-learn, TensorFlow, PyTorch, Keras         |
+| Optimization      | Genetic Algorithm, Simulated Annealing, ACO     |
+| Data Processing   | Pandas, NumPy                                    |
+| Visualization     | Matplotlib, Seaborn                              |
+
+
+
+The project follows a structured pipeline:
+
+Problem Definition: Define objectives, constraints, and real-world scheduling challenges.
+
+Data Collection: Generate or gather synthetic data on employee availability, tasks, skills, etc.
+
+Model Design: Implement ML & heuristic-based schedulers.
+
+Evaluation: Benchmark algorithms based on efficiency, satisfaction, and cost reduction.
+
+📈 For details, refer to the full methodology in the 📄 PDF Report.
+
+
+
+
+
+
+
+Use Cases
+Healthcare: Optimize nurse/doctor shifts while balancing fatigue and preferences.
+
+Retail: Align staff schedules with peak foot traffic using predictive analytics.
+
+Manufacturing: Distribute tasks across shifts considering machine/operator availability.
+
+Customer Service: Intelligent dispatching of agents based on call volumes.
