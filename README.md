@@ -23,7 +23,9 @@ Key Features of the project are:
 | Data Processing   | Pandas, NumPy                                    |
 | Visualization     | Matplotlib, Seaborn                              |
 
-<img src="images/Screenshot" alt="Streamlit App" width="80%">
+<div align="center">
+  <img src="images/Screenshot.png" alt="Streamlit App" width="80%">
+</div>
 
 
 The project follows a structured pipeline:
