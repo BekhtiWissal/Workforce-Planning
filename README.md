@@ -2,7 +2,7 @@ Workforce planning is no longer just about filling schedules — it's about opti
 - Predicting workload and demand fluctuations.
 - Optimizing shift allocation based on skills and availability.
 - Maximizing productivity while ensuring worker well-being.
-![ ](images/png)
+![ ](images/Screensh.png)
 
 Key Features of the project are:
  - **AI-Driven Decision Making**: Integration of ML models for job allocation and dynamic shift optimization.
