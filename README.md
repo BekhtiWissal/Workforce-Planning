@@ -2,13 +2,8 @@ Workforce planning is no longer just about filling schedules — it's about opti
 - Predicting workload and demand fluctuations.
 - Optimizing shift allocation based on skills and availability.
 - Maximizing productivity while ensuring worker well-being.
-![ ](images/Screensh.png)
 
-
-## 🖼️ Streamlit Demo
-
-<img src="images/Screenshot.png" alt="Streamlit App" width="50%">
-
+<img src="images/Screensh.png" alt=" " width="50%">
 
 
 Key Features of the project are:
@@ -28,8 +23,8 @@ Key Features of the project are:
 | Data Processing   | Pandas, NumPy                                    |
 | Visualization     | Matplotlib, Seaborn                              |
 
+<img src="images/Screenshot" alt="Streamlit App" width="80%">
 
-![Streamlit App](images/Screenshot.png)
 
 The project follows a structured pipeline:
  - **Problem Definition**: Define objectives, constraints, and real-world scheduling challenges.
